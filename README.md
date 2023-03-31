@@ -1,3 +1,3 @@
-unit 1 tictactoe
+unit 1 project
 
 Learning React in Specs
